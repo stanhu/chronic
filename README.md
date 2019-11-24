@@ -1,6 +1,9 @@
 Chronic
 =======
 
+This is a fork of https://github.com/mojombo/chronic since that project
+does not appear to be maintained.
+
 Chronic is a natural language date/time parser written in pure Ruby. See below
 for the wide variety of formats Chronic will parse.
 
